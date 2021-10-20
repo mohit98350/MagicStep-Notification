@@ -9,7 +9,7 @@ const Notification = () => {
             <div className="container">
                 <div className="row">
                     <div className="col-xl-12 first">
-                        <table>
+                        <table >
                             <tr>
                                 <td className="fav" style={{paddingRight:20}}><BsFillBellFill size={30}/></td>
                                 <td>
